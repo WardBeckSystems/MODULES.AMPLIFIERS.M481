@@ -1,5 +1,5 @@
 # 1975 - M481 - P001 - Title Page.jpg
-Wiki page: [M481](../../../PAGES/M481.md)
+Wiki page: [M481](../../../../PAGES/M481.md)
 
 
 - **Year:** 1975 (module estimate (labelled))
@@ -34,7 +34,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M481/1975 - M481 - P001 - Title Page.jpg",
+ "file": "Modules/AMPLIFIERS/M481/MANUALS/1975 - M481 - P001 - Title Page.jpg",
  "sha256": "01b465c89882ca5bce7daca2247336f9b70f9ea8d265ef3a1c06e446f4fb8ecf",
  "kind": "module",
  "models": [
