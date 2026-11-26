@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M481/MANUALS/1975 - M481 - Oscilator and Cue Amp.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/e24acd492fa88de1-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1533, 2000],
+  "mm": [331.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "6"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 294.3, 425.1],
+ "outlines": {
+  "line": {"rings": 44, "straight": {"n": 1671, "mm": 5231.4}, "curved": {"n": 84, "mm": 224.2}},
+  "text": {"rings": 39, "straight": {"n": 943, "mm": 2958.3}, "curved": {"n": 92, "mm": 196.7}},
+  "tb": {"rings": 7, "straight": {"n": 212, "mm": 870.6}, "curved": {"n": 18, "mm": 53.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 13,
+  "lines": [
+   {"mm": [191.3, 399.6, 283.5, 423.9], "text": "WBS"},
+   {"mm": [190.2, 359.7, 283.0, 384.6], "text": "WBS"},
+   {"mm": [189.6, 320.4, 282.8, 344.6], "text": "WBS"},
+   {"mm": [189.6, 280.5, 282.8, 305.4], "text": "WBS"},
+   {"mm": [189.6, 240.9, 282.8, 264.7], "text": "WBS"},
+   {"mm": [189.3, 201.0, 283.3, 225.2], "text": "WBS"},
+   {"mm": [189.3, 161.1, 283.3, 186.0], "text": "WBS"},
+   {"mm": [188.9, 123.1, 283.3, 146.3], "text": "WBS"},
+   {"mm": [227.8, 101.0, 244.4, 108.0], "text": "M481"},
+   {"mm": [205.8, 92.6, 267.7, 100.1], "text": "OSCILLATORICUE"},
+   {"mm": [217.8, 84.6, 256.1, 91.6], "text": "AMPLIFIER"},
+   {"mm": [190.0, 43.4, 284.1, 66.9], "text": "WBS"},
+   {"mm": [190.2, 3.0, 284.1, 26.8], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [182.2, 0.0, 290.7, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M481", "OSCILLATORICUE", "AMPLIFIER", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 331 × 432 mm, 1533 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–294 mm across, 0–425 mm up",
+  "- **Outlines:** line 44 rings, 1,671 straight (5,231 mm) / 84 curved (224 mm); text 39 rings, 943 straight (2,958 mm) / 92 curved (197 mm); tb 7 rings, 212 straight (871 mm) / 18 curved (53.6 mm)",
+  "- **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M481 · OSCILLATORICUE · AMPLIFIER · WBS",
+  "- **Title block:** (182, 0)–(291, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M481 · OSCILLATORICUE · AMPLIFIER · WBS · WBS"
+ ]
+}
