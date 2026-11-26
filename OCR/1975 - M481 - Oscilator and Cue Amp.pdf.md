@@ -22,7 +22,7 @@ Wiki page: [M481](../../../../PAGES/M481.md)
 - **Words (OCR):** 13 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M481 · OSCILLATORICUE · AMPLIFIER · WBS
 - **Title block:** (182, 0)–(291, 432) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M481 · OSCILLATORICUE · AMPLIFIER · WBS · WBS
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p1 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p1%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p1 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p1%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p1 (
 - **Outlines:** line 49 rings, 316 straight (903 mm) / 82 curved (131 mm); text 1,330 rings, 10,687 straight (12,758 mm) / 3,196 curved (5,182 mm)
 - **Words (OCR):** 168 in 145 lines: 9C & ? · Page 1. · 20144 · OSCILLATORLCUE_AMPLIFIER · MODULE_M481 · DESIGN DESCRIPIION · MFG _ · PART · NUMBER · 7 8% · C1 · 22mFd, 25v
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p2 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p2%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p2 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p2%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p2 (
 - **Words (OCR):** 169 in 139 lines: Pa ge · OSCILLATORLCUE AMPLIFIER · MODULE M481 · DESIGN DESCRIPTION · MFG_ · PART NUMBER · RI · 2501 · Alen-Brad]ey · Ganged · WBS #10-012 · 250
 - **Title block:** (251, 292)–(278, 343) mm: WBS
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p3 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p3%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p3 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p3 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p3%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p3 (
 - **Words (OCR):** 114 in 107 lines: Page · OSCILLATORLCUE_AMPLIFIER · MODULE · M481 · DESIGN · DESCRIPIION · MFG · PART NUMBER · Philips · R41 · 4k7 · R42
 - **Title block:** (176, 122)–(306, 233) mm: Schadow · WBS · #11-002 · Schadow · WBS · 411-002 · Schadow · WBS #11-005 · Nationa] · LM1458 · Nationa ] · LM1458 · Nationa 1 · LM1458 · Na tiona 1 · LM377N · Bus $ · 4405 · HBS · 5-113 · WBS · 481-0
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p4 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p4%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p4 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p4 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p4%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p4 (traced).dxf`).
 
 ### Page 5
 
@@ -63,7 +63,7 @@ Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p4 (
 - **Dots (junctions):** 3
 - **Words (OCR):** 83 in 55 lines: M1 In · M1 In · M2 In · B /2 · M2 IN · Out · C |3 · M1 OUt · M2 out · M2 · E/5 · HIZ
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p5 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p5%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p5 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p5 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p5%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p5 (
 - **Words (OCR):** 51 in 45 lines: (t2) · YUTE Control · Dikect · 72/25 · 44 · R42 · KRe · R47 · Iccle · CR? · P95 · CUE
 - **Title block:** (332, 4)–(406, 36) mm: WBS WAAD-BeCk · DRN: 21 OSCILLATCRICUE · Masi · CKD: · SCHEM TIC · SCALE · 481-02-021 · TOLs_
 
-Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p6 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p6%20(traced).json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M481 - Oscilator and Cue Amp p6 (traced).json](../MANUALS/1975%20-%20M481%20-%20Oscilator%20and%20Cue%20Amp%20p6%20%28traced%29.json) (the CAD file: `1975 - M481 - Oscilator and Cue Amp p6 (traced).dxf`).
 
 ## Full text
 

@@ -41,7 +41,7 @@ Schematic of the M481 oscillator/cue amplifier module: 1458 op-amp oscillator wi
 - **Title block:** (332, 4)–(429, 36) mm: WBS · WARD-BeCK BybteMB · LTD · DRN: · OSCILLATORICUE AM-LIFIER · M4si · CKD · SCHEM'MTIC · SCALE · 481-02-021 · TOLS _
 - **Wiring (first pass):** 114 connected wire groups from 618 runs, 1 dotted junctions; labelled ends: 130 mm → MAT; 103 mm → {RZ; 57 mm → CRA; 47 mm → Snzs, 778, 82; 42 mm → R4t
 
-Every curve, box, word and wire group: [1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1975%20-%20481-02-001%20-%20OSCILLATOR%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%202%20(traced).json) (the CAD file: `1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).json](../SCHEMATICS/1975%20-%20481-02-001%20-%20OSCILLATOR%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2 (traced).dxf`).
 
 ## Full text
 
