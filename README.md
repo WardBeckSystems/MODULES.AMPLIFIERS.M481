@@ -27,6 +27,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQmRGVm9DZmZEWmc/view?resourcekey=0-1COA6d-lL7ki5DxGRFwnpw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQmRGVm9DZmZEWmc&resourcekey=0-1COA6d-lL7ki5DxGRFwnpw" width="240" alt="1975 - M481 - 481-04-002 - EKD OSCILLATOR-CUE AMPLIFIER.jpg"></a><br><sub>1975|8 · 481-04-002 - EKD OSCILLATOR-CUE AMPLIFIER · <a href="MECHANICAL/1975%20-%20M481%20-%20481-04-002%20-%20EKD%20OSCILLATOR-CUE%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M481.stl`](MECHANICAL/M481.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M481)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M481 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M481.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
