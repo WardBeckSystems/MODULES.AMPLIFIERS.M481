@@ -1,5 +1,5 @@
 # 1975 - M481 - P001 - Title Page.jpg
-Wiki page: [M481](../../../../PAGES/M481.md)
+Wiki page: [M481](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

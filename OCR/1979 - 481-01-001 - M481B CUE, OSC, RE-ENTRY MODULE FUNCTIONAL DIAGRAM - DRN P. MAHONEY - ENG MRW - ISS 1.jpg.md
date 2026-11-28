@@ -1,5 +1,5 @@
 # 1979 - 481-01-001 - M481B CUE, OSC, RE-ENTRY MODULE FUNCTIONAL DIAGRAM - DRN P. MAHONEY - ENG MRW - ISS 1.jpg
-Wiki page: [M481](../../../../PAGES/M481.md)
+Wiki page: [M481](../)
 
 
 - **Year:** 1979 (title block date)

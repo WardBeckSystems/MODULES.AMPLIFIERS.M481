@@ -1,5 +1,5 @@
 # 1975 - 481-02-001 - OSCILLATOR CUE AMPLIFIER SCHEMATIC - DRN DM - ISS 2.jpg
-Wiki page: [M481](../../../../PAGES/M481.md)
+Wiki page: [M481](../)
 
 
 - **Year:** 1975 (title block date)

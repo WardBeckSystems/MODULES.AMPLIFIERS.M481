@@ -1,5 +1,5 @@
 # 1975 - M481 - 481-02-021 - MICROFARADS UNLESS OTHERWISE SPECIFIED LAST COMPONENT DESIGNATIONS.jpg
-Wiki page: [M481](../../../../PAGES/M481.md)
+Wiki page: [M481](../)
 
 
 - **Year:** 1975 (found in this file: "DATE MAy 75")

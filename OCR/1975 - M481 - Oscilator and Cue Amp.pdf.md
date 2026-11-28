@@ -1,5 +1,5 @@
 # 1975 - M481 - Oscilator and Cue Amp.pdf
-Wiki page: [M481](../../../../PAGES/M481.md)
+Wiki page: [M481](../)
 
 
 - **Year:** 1975 (module estimate (labelled))

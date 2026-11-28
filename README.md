@@ -1,6 +1,6 @@
 # M481 Oscillator Cue Amplifier · Amplifiers
 
-Ward-Beck Systems M481, 1975|8. Wiki page: [M481 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M481.html)
+Ward-Beck Systems M481, 1975|8. Wiki page: [M481 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M481-Oscillator-Cue-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
